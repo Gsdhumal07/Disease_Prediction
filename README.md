@@ -78,4 +78,7 @@ For running the inference on test set or on custom inputs, you can also use the 
 python infer.py
 ```
 
+
 **NOTE:** ***This project is for demo purposes only. For any symptoms/disease, please refer to a Doctor.***
+
+
