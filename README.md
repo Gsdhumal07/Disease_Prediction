@@ -31,6 +31,7 @@ https://impact.dbmi.columbia.edu/~friedma/Projects/DiseaseSymptomKB/index.html
 
 This dataset has 3 columns:
 ```
+
 Disease  | Count of Disease Occurrence | Symptom
 ```
 
